@@ -83,7 +83,7 @@ body {
 .text-container ::before {
     position: absolute;
     content: "";
-    width: 100%;
+    width: 90%;
     height: 100%;
     opacity: 1;
     transition: .8s;
